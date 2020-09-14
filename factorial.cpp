@@ -1,6 +1,6 @@
 #include "factorial.h"
 
-unsigned int factorial(unsigned int n)
+unsigned int factorial(const unsigned int n)
 {
   if (n == 0 or n == 1) {
     return 1;

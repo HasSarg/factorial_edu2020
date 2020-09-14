@@ -1,3 +1,3 @@
 #pragma one
 
-unsigned int factorial(unsigned int); 
+unsigned int factorial(const unsigned int); 
